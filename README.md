@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pbching
 - 👀 I’m interested in AI and Data Science
-- 🌱 I’m currently learning Java OOP
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me:
     +email: chinh.pb193995@sis.hust.edu.vn
     +facebook: http://facebook.com/pbc.PhamBaChinh
