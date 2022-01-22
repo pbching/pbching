@@ -2,7 +2,9 @@
 - 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning and working with NLP
 - 📫 How to reach me:
+
     +email: chinh.pb193995@sis.hust.edu.vn
+    
     +facebook: http://facebook.com/pbc.PhamBaChinh
 
 <!---
