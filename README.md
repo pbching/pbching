@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning and working with NLP
 - 📫 How to reach me:
 
-    +email: chinh.pb193995@sis.hust.edu.vn
-    
-    +facebook: http://facebook.com/pbc.PhamBaChinh
+    +email: chinhthoinl@gmail.com
 
     +linkedin: https://www.linkedin.com/in/chinh-ph%E1%BA%A1m-b%C3%A1-0308/
 
